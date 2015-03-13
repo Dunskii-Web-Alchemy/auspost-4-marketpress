@@ -14,12 +14,19 @@ Set Australia as country (if you don't do this you can see the plugin as a Calcu
 AUSPOST SHIPPING SETTINGS
 
 Products ->  Store Settings -> Shipping Tab
+
 Shipping method: Calculated Options
+
 Shipping Option: AUSPOST
+
 Measurement System: Metric
+
 Enter your AUSPOST Developer Kit Access Key
+
 Set the AusPost services you provide
+
 Rename Service Label if you want
+
 Add shipping pricing rules if you want
 
 
